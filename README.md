@@ -6,7 +6,7 @@
 
 This contains everything you need to run your app locally.
 
-View your app in-https://glittering-cat-8b75fd.netlify.app/
+View your app in-https://glittering-ccat-8b75fd.netlify.app/
 
 ## Run Locally
 
